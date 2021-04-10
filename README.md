@@ -78,6 +78,12 @@
     - Giới từ + N
     - Giới từ + V_ing
       (Chọn danh từ nếu phía sau không còn danh từ nữa)
+8. Liên từ
+    - Liên kết cụm từ
+        - Liên kết tính từ
+        - Liên kết danh từ
+        - Liên kết động từ
+    - Liên kết câu
 
 #### 2. The parts of sentence
 

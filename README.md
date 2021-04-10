@@ -72,14 +72,67 @@
 #### 3. Tense
 
 1. Simple present
+
+    - Hỏi về địa điểm
+    - Hỏi về lý do
+    - Hỏi về làm thế nào
+    - Hỏi về cái gì
+    - Hỏi về thời gian
+    - Hỏi về ai
+    - Hỏi về của ai
+
 2. Continue present
+
 3. Perfect present
+
 4. Going to
+
 5. Simple past
+
 6. Simple future
 
-#### 4. Sự hòa hợp giữa chủ ngữ và động từ
+#### 4. Sự hòa hợp giữa chủ ngữ và động từ (Chia động từ theo chủ ngữ)
+
+1. Lưu ý
+    - Số ít, số nhiều
+    - Chủ động, bị động
+    - Thì
+2. Chủ ngữ số nhiều sẽ chia với động từ số nhiều, ngược lại chủ ngữ số ít sẽ chia với động từ số ít
+
+    - Động từ số nhiều giống với động từ nguyên mẫu
+    - Động từ số ít bằng động từ nguyên mẫu + s/es
+
+    - Danh từ số ít
+
+        - Danh từ đếm được số ít: apple
+        - Danh từ không đếm được: water
+        - Đại từ số ít: he, she, it
+        - Tên riêng: Thuong Nguyen
+        - Danh động từ: swimming
+        - to inf: to get a job is so easy
+
+    - Chủ ngữ số nhiều
+        - Danh từ đếm được số nhiều: apples
+        - Đại từ số nhiều: I, you, we, they
+        - Danh từ chung chung: people
+    - Phần 5
 
 #### 5. Mệnh đề quan hệ
+
+1. Đại từ quan hệ
+    - Who
+    - Whom: O
+    - Which
+    - That
+2. Trạng từ quan hệ
+    - When
+    - Where
+    - Why
+3. What không phải là một đại từ quan hệ
+
+4. Rút gọn mệnh đề quan hệ
+    - Khi là chủ ngữ và chủ động: V_ing
+    - Khi là chủ ngữ và bị động: V3
+    - Rút gọ dạng tính từ: chỉ giữ lại tính từ và bỏ động từ tobe và đại từ quan hệ
 
 #### 6.

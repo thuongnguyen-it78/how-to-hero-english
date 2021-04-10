@@ -3,8 +3,10 @@
 #### 1. The parts of speech
 
 1. Noun
+
     - Chia làm 2 loại: danh từ đếm được và danh từ không đếm được
-    - Đứng trước danh từ bắt buộc phải có hạn định từ (trừ tên riêng)
+    - Đứng trước danh từ đếm được số ít bắt buộc phải có hạn định từ (trừ tên riêng) (\*. Nhớ cái này để giải trắc nghiệm nhé)
+
 2. Pronouns
 
     - Đại từ chủ ngữ
@@ -53,13 +55,29 @@
 4. Verb
 
     - Diễn tả trạng thái hoặc hành động của chủ từ
+    - Chia thành 3 loại
+        - động từ thường
+            - nội động từ: không cần object phía sau: drive, run, smile
+            - ngoại động từ: cần phải object phía sau: go
+        - động từ tobe: am, is, are, was, were, been, be
+        - linking verbs: giống động từ tobe, dùng để nối chủ ngữ với tính từ
+            - become, remain, feel, look, sound, seem + ADJ
 
 5. Adverb
     - Bổ nghĩa cho động từ, tính từ hoặc cả một trạng từ
     - Trạng từ không bổ nghĩa cho một danh từ
+    - Có 4 vị trí
+        - Đúng trước hoặc sau động từ (Lưu ý: trạng từ không đứng giữa động từ và object)
+        - Đứng trước tính từ
+        - Đứng trước một trạng từ
+        - Đứng đầu câu
 6. Det
     - Đứng trước một danh từ
     - Có tác dụng giới hạn kích thước của danh từ
+7. Giới từ
+    - Giới từ + N
+    - Giới từ + V_ing
+      (Chọn danh từ nếu phía sau không còn danh từ nữa)
 
 #### 2. The parts of sentence
 
@@ -132,7 +150,7 @@
 
 4. Rút gọn mệnh đề quan hệ
     - Khi là chủ ngữ và chủ động: V_ing
-    - Khi là chủ ngữ và bị động: V3
-    - Rút gọ dạng tính từ: chỉ giữ lại tính từ và bỏ động từ tobe và đại từ quan hệ
+    - Khi là chủ ngữ và bị động: V_3
+    - Rút gọn dạng tính từ: chỉ giữ lại tính từ và bỏ động từ tobe và đại từ quan hệ
 
 #### 6.
